@@ -1,17 +1,28 @@
 project:
   type: website
+  resources: static
 
 website:
-  title: "faculty-quarto-website"
+  title: "Ron Yurko"
+  site-url: "http://www.stat.cmu.edu/~ryurko/"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      - text: About
+        href: about.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: CV
+        href: static/cv.pdf
+      - icon: github
+        href: https://github.com/ryurko
+      - icon: twitter
+        href: https://twitter.com/Stat_Ron
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 

@@ -1,0 +1,30 @@
+---
+title: "Publications"
+---
+
+### 2021
+
++ __Ronald Yurko__, Kathryn Roeder, Bernie Devlin, and Max G'Sell. "An approach to gene-based testing accounting for dependence of tests among nearby genes," _Briefings in Bioinformatics_, 2021. [(link)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8575037/)
+
++ __Ronald Yurko__, Kathryn Roeder, Bernie Devlin, and Max G'Sell. "H-MAGMA, inheriting a shaky statistical foundation, yields excess false positives," _Annals of Human Genetics_, 2021. ([link](https://onlinelibrary.wiley.com/doi/10.1111/ahg.12412), [preprint](https://www.biorxiv.org/content/10.1101/2020.08.20.260224v1))
+
++ Riccardo Fogliato, Natalia L Oliveira, and __Ronald Yurko__. "TRAP: a predictive framework forthe Assessment of Performance in Trail Running," _Journal of Quantitative Analysis in Sports_, 2021. ([link](https://www.degruyter.com/document/doi/10.1515/jqas-2020-0013/html?lang=en), [preprint](https://arxiv.org/abs/2002.01328))
+
+### 2020
+
++ __Ronald Yurko__, Francesca Matano, Lee F Richardson, Nicholas Granered, Taylor Pospisil, Konstantinos Pelechrinis, and Samuel L Ventura. "Going deep: models for continuous-time within-play valuation of game outcomes in american football with tracking data," _Journal of Quantitative Analysis in Sports_, 2020. ([link](https://www.degruyter.com/document/doi/10.1515/jqas-2019-0056/html?lang=en))
+
++ __Ronald Yurko__, Max G’Sell, Kathryn Roeder, and Bernie Devlin. "A selective inference approach for false discovery rate control using multiomics covariates yields insights into disease risk," _Proceedings of the National Academy of Sciences_, 2020. ([link](https://www.pnas.org/doi/abs/10.1073/pnas.1918862117))
+
++ Sarah Mallepalle, __Ronald Yurko__, Konstantinos Pelechrinis, and Samuel L Ventura. "Extracting NFL tracking data from images to evaluate quarterbacks and pass defenses," _Journal of Quantitative
+Analysis in Sports_, 2020. ([link](https://www.degruyter.com/document/doi/10.1515/jqas-2019-0052/html?lang=en), [preprint](https://arxiv.org/abs/1906.03339))
+
++ Rishav Dutta, __Ronald Yurko__, and Samuel L Ventura. "Unsupervised methods for identifying pass coverage among defensive backs with nfl player tracking data," _Journal of Quantitative
+Analysis in Sports_, 2020. ([link](https://www.degruyter.com/document/doi/10.1515/jqas-2020-0017/html?lang=en), [preprint](https://arxiv.org/abs/1906.11373))
+
+### 2019
+
++ __Ronald Yurko__, Samuel Ventura, and Maksim Horowitz. "nflWAR: a reproducible method for offensive player evaluation in football," _Journal of Quantitative Analysis in Sports_, 2019. ([link](https://www.degruyter.com/document/doi/10.1515/jqas-2018-0010/html?lang=en), [extended edition](https://arxiv.org/abs/1802.00998))
+
++ Konstantinos Pelechrinis, __Ronald Yurko__, and Sam Ventura. "Reducing Concussions in the NFL: A Data-Driven Approach," _CHANCE_, 2019. ([link](https://chance.amstat.org/2019/11/reducing-concussions/))
+

@@ -1,11 +1,29 @@
 ---
-title: "faculty-quarto-website"
+title: "Ron Yurko"
+image: static/headshot.jpg
+about:
+    template: trestles
+    links:
+        - icon: envelope
+          text: Contact
+          href: mailto:ryurko@andrew.cmu.edu
+        - icon: mortarboard-fill
+          text: CV
+          href: static/cv.pdf
+        - icon: google
+          href: https://scholar.google.com/citations?user=CBT7NWQAAAAJ&hl=en
+        - icon: twitter
+          href: https://twitter.com/Stat_Ron
+        - icon: github
+          href: https://github.com/ryurko
 ---
 
-This is a Quarto website.
+I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in statistical genetics and sports analytics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Interested in sports analytics? Check out what [CMSAC has to offer](https://www.stat.cmu.edu/cmsac/), including:
 
-```{r}
-1 + 1
-```
+- annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/2022/)
+- [Summer Undergraduate Research Experience (aka CMSACamp)](https://www.stat.cmu.edu/summer/)
+- [Open Source Sports podcast](https://podcasts.apple.com/us/podcast/open-source-sports/id1513053248)
+
+If you're an undergrad CMU student interested in sports analytics research, I recommend signing up for my Sports Analytics Capstone course 36-493.
