@@ -9,7 +9,7 @@ about:
           href: mailto:ryurko@andrew.cmu.edu
         - icon: mortarboard-fill
           text: CV
-          href: static/cv.pdf
+          href: ~ryurko/static/cv.pdf
         - icon: google
           href: https://scholar.google.com/citations?user=CBT7NWQAAAAJ&hl=en
         - icon: twitter
