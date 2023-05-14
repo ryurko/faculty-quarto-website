@@ -16,6 +16,8 @@ about:
           href: https://twitter.com/Stat_Ron
         - icon: github
           href: https://github.com/ryurko
+        - icon: linkedin
+          href: https://www.linkedin.com/in/ron-yurko-stats/
 ---
 
 I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in statistical genetics and sports analytics.
