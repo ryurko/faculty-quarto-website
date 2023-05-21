@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in statistical genetics and sports analytics. 
+I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and statistical genetics. 
 
 I previously received my PhD in Statistics at Carnegie Mellon University under supervision of Professor [Kathryn Roeder](https://kathrynmroeder.github.io/) and [Max G’Sell](https://www.andrew.cmu.edu/user/mgsell/). My [thesis](https://kilthub.cmu.edu/articles/thesis/Selective_inference_approaches_for_augmenting_genetic_association_studies_with_multi-omics_metadata/19669593) work focused on selective inference approaches for augmenting genetic association studies with data-guided hypothesis testing.
 
@@ -10,10 +10,12 @@ I also actively publish research on statistics in sports, and have developed mul
 
 ### Research Interests
 
-- Statistics in Sports
+- Statistics in Sports / Sports Analytics
 - Statistical Genetics
 - Selective Inference
 - Clustering
+- Natural Language Processing
+- Statistics and Data Science Pedagogy
 
 ### Education
 

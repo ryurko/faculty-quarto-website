@@ -1,6 +1,10 @@
 ---
-title: "Publications"
+title: "Publications and Preprints"
 ---
+
+### 2023
+
++ Quang Nguyen, __Ronald Yurko__, and Gregory J Matthews. "Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data". _arXiv preprint arXiv:2305.10262_, 2023. ([preprint](https://arxiv.org/abs/2305.10262))
 
 ### 2021
 
