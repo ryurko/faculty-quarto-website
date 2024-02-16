@@ -2,9 +2,15 @@
 title: "Publications and Preprints"
 ---
 
+### 2024
+
++ Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Analytics, have some humility: a statistical
+view of fourth-down decision making". _arXiv preprint_, 2024. ([preprint](https://arxiv.org/abs/2311.03490))
+
+
 ### 2023
 
-+ Quang Nguyen, __Ronald Yurko__, and Gregory J Matthews. "Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data". _arXiv preprint arXiv:2305.10262_, 2023. ([preprint](https://arxiv.org/abs/2305.10262))
++ Quang Nguyen, __Ronald Yurko__, and Gregory J Matthews. "Here Comes the STRAIN: Analyzing Defensive Pass Rush in American Football with Player Tracking Data". _The American Statistician_, 2023. ([link](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2242442))
 
 ### 2021
 
