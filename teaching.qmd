@@ -18,7 +18,11 @@ Elective course for advanced undergraduate and [master's level](https://www.cmu.
 
 #### 36–613 Data Visualization (mini)
 
-Core course in [Master of Statistical Practice program](https://www.cmu.edu/dietrich/statistics-datascience/academics/msp/index.html) on creating and understanding data visualizations and interactive tools from a statistical perspective.
+Core course in [Master of Science in Applied Data Science (MADS)](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html) on creating and understanding data visualizations and interactive tools from a statistical perspective.
+
+#### 36-642 Telling Impactful Stories with Data Visualization (online mini)
+
+Data visualization course in [Foundations of Data Science](https://www.cmu.edu/online/fds/) online graduate certificate program.
 
 #### 36-493 Sports Analytics Capstone
 

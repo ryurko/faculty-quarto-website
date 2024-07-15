@@ -20,11 +20,11 @@ about:
           href: https://www.linkedin.com/in/ron-yurko-stats/
 ---
 
-I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in natural language processing, statistical genetics, and sports analytics.
+I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing.
 
 Interested in sports analytics? Check out what [CMSAC has to offer](https://www.stat.cmu.edu/cmsac/), including:
 
-- annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/)
+- [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/)
 - [Summer Undergraduate Research Experience (aka CMSACamp)](https://www.stat.cmu.edu/summer/)
 - [Open Source Sports Substack](https://opensourcesports.substack.com/)
 
