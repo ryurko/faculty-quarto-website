@@ -15,8 +15,8 @@ website:
         href: static/cv.pdf
       - icon: github
         href: https://github.com/ryurko
-      - icon: twitter
-        href: https://twitter.com/Stat_Ron
+      - text: Substack
+        href: https://statthinksportsanalytics.substack.com/
 
 format:
   html:

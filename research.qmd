@@ -4,16 +4,17 @@ title: "Publications and Preprints"
 
 ### 2024
 
++ Alex Reinhart, David Brown, Ben Markey, Michael Laudenbach, Kachatad Pantusen, __Ronald Yurko__, and Gordon Weinberg. "Do LLMs write like humans? Variation in grammatical and rhetorical styles," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2410.16107)
+
 + __Ronald Yurko__, Quang Nguyen, and Konstantinos Pelechrinis. "NFL Ghosts: A framework for evaluating defender positioning with conditional density estimation," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2406.17220)
 
-+ Adriana Gonzalez Sanchez, Sierra Martinez, __Ronald Yurko__, and Ryan Elmore. "Does Icing the Field Goal Kicker Work in the National Football League?", CHANCE, 2024. (_Accepted for publication and link to be made available later._)
++ Adriana Gonzalez Sanchez, Sierra Martinez, __Ronald Yurko__, and Ryan Elmore. "Does Icing the Field Goal Kicker Work in the National Football League?", _CHANCE_, 2024. [(link)](https://www.tandfonline.com/doi/pdf/10.1080/09332480.2024.2415841?casa_token=gDYSucFwk4oAAAAA:OK5ZvoaS04aayEcMeWM-xjIkDk6G1iXLfZJQyZNhLon9DBl69K_BO5Sx2bbKoZFaPXE1k8F-9iO-_g)
 
 + Yujin Kim, Minwoo Jeong, In Gyeong Koh, Chanhee Kim, Hyeji Lee, Jae Hyun Kim, __Ronald Yurko__, Il Bin Kim, Jeongbin Park, Donna M Werling, Stephan J Sanders, and Joon-Yong. "CWAS-Plus: estimating category-wide association of rare noncoding variation from whole-genome sequencing data with cell-type-specific functional data," _Briefings in Bioinformatics_, 2024. [(link)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11224609/)
 
-+ Quang Nguyen, Ruitong Jiang, Meg Ellingwood, and __Ronald Yurko__. "Fractional tackles:
-Leveraging player tracking data for within-play tackling evaluation in american football," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2403.14769)
++ Quang Nguyen, Ruitong Jiang, Meg Ellingwood, and __Ronald Yurko__. "Fractional tackles: Leveraging player tracking data for within-play tackling evaluation in american football," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2403.14769)
 
-+ Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Exploring the difficulty of estimating winprobability: a simulation study," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2406.16171)
++ Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Exploring the difficulty of estimating win probability: a simulation study," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2406.16171)
 
 + Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Analytics, have some humility: a statistical view of fourth-down decision making," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2311.03490)
 

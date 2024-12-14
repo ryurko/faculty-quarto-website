@@ -20,12 +20,17 @@ about:
           href: https://www.linkedin.com/in/ron-yurko-stats/
 ---
 
-I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing.
+I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing. 
 
-Interested in sports analytics? Check out what [CMSAC has to offer](https://www.stat.cmu.edu/cmsac/), including:
+I am also the Director of the [Carnegie Mellon Sports Analytics Center (CMSAC)](https://www.stat.cmu.edu/cmsac), which includes:
 
-- [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/)
-- [Summer Undergraduate Research Experience (aka CMSACamp)](https://www.stat.cmu.edu/summer/)
-- [Open Source Sports Substack](https://opensourcesports.substack.com/)
++ [sports analytics research lab](https://cmsac-research-lab.github.io/)
 
-If you're a CMU student interested in sports analytics, I recommend signing up for my Sports Analytics special topics course 36-460/660.
++ [summer undergraduate research experience in sports analytics (aka CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html)
+
++ annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/)
+
+I also maintain a Substack called [Statistical Thinking in Sports Analytics](https://statthinksportsanalytics.substack.com/).
+
+If you're a CMU student interested in sports analytics, I recommend signing up for my Sports Analytics course 36-460/660 to learn about [relevant statistical methods for tackling challenging problems in this growing area](https://open.substack.com/pub/statthinksportsanalytics/p/statistical-thinking-in-sports-analytics?r=a5tci&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false).
+
