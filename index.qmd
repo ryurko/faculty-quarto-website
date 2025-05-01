@@ -30,7 +30,7 @@ I am also the Director of the [Carnegie Mellon Sports Analytics Center (CMSAC)](
 
 + annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/)
 
-I also maintain a Substack called [Statistical Thinking in Sports Analytics](https://statthinksportsanalytics.substack.com/).
+I also maintain a Substack called [Statistical Thinking in Sports Analytics](https://statthinksportsanalytics.substack.com/) and I am actively working on a textbook titled _Statistical Methods in Sports Analytics_ (to be released in 2027).
 
 If you're a CMU student interested in sports analytics, I recommend signing up for my Sports Analytics course 36-460/660 to learn about [relevant statistical methods for tackling challenging problems in this growing area](https://open.substack.com/pub/statthinksportsanalytics/p/statistical-thinking-in-sports-analytics?r=a5tci&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false).
 
