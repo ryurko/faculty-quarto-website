@@ -20,17 +20,11 @@ about:
           href: https://www.linkedin.com/in/ron-yurko-stats/
 ---
 
-I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/). My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in sports analytics and natural language processing. 
+I am an Assistant Teaching Professor in the [Department of Statistics & Data Science](http://www.stat.cmu.edu/) at [Carnegie Mellon University](http://www.cmu.edu/), and the Director of the [Carnegie Mellon Sports Analytics Center (CMSAC)](https://www.stat.cmu.edu/cmsac). CMSAC's initiatives include an active [sports analytics research lab](https://cmsac-research-lab.github.io/), a [summer undergraduate research experience in sports analytics (aka CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html), and the annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/).
 
-I am also the Director of the [Carnegie Mellon Sports Analytics Center (CMSAC)](https://www.stat.cmu.edu/cmsac), which includes:
+My research focuses on developing methods at the interface of inference and machine learning, oriented towards problems in [sports analytics](https://cmsac-research-lab.github.io) and [natural language processing](https://www.cmu.edu/dietrich/statistics-datascience/research/nlp-llms.html). My work has been featured in [popular media outlets](https://www.cmu.edu/dietrich/statistics-datascience/cmsac/in-the-news/index.html) such as The Athletic, FiveThirtyEight, The Wall Street Journal, and The Washington Post. I am a three-time degree holder from Carnegie Mellon: with a bachelors, masters, and PhD in Statistics. I also have industry experience in both finance and professional sports.
 
-+ [sports analytics research lab](https://cmsac-research-lab.github.io/)
-
-+ [summer undergraduate research experience in sports analytics (aka CMSACamp)](https://www.cmu.edu/dietrich/statistics-datascience/engagement/summer/cmsa-camp.html)
-
-+ annual [Carnegie Mellon Sports Analytics Conference](https://www.stat.cmu.edu/cmsac/conference/)
-
-I also maintain a Substack called [Statistical Thinking in Sports Analytics](https://statthinksportsanalytics.substack.com/) and I am actively working on a textbook titled _Statistical Methods in Sports Analytics_ (to be released in 2027).
+I am actively working on a textbook titled _Statistical Methods in Sports Analytics_ (to be released in 2027), and occasionally write a newsletter called [_Statistical Thinking in Sports Analytics_](https://statthinksportsanalytics.substack.com/).
 
 If you're a CMU student interested in sports analytics, I recommend signing up for my Sports Analytics course 36-460/660 to learn about [relevant statistical methods for tackling challenging problems in this growing area](https://open.substack.com/pub/statthinksportsanalytics/p/statistical-thinking-in-sports-analytics?r=a5tci&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false).
 

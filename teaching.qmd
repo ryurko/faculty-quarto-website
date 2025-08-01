@@ -2,32 +2,44 @@
 title: "Teaching"
 ---
 
-I am teaching the following courses at Carnegie Mellon University (order by course level):
+I am teaching (or have taught) the following courses at Carnegie Mellon University (ordered by course level):
 
-#### 46--924 Natural Language Processing (mini)
+#### 46--937 Deep Learning (mini; currently teaching)
 
-Elective course on natural language processing for the [Master's in Computational Finance program](https://www.cmu.edu/mscf/), text mining, topic models, and transformers.
+Elective course on deep learning for the [Master's in Computational Finance program](https://www.cmu.edu/mscf/); created course curriculum and materials from scratch.
 
-#### 46--926 Machine Learning I (mini)
+#### 46--924 Natural Language Processing (mini; currently teaching)
+
+Elective course on natural language processing for the [Master's in Computational Finance program](https://www.cmu.edu/mscf/), text mining, topic models, and transformers; created course curriculum and materials from scratch.
+
+#### 46--926 Machine Learning I (mini; currently teaching)
 
 Core course on statistical machine learning for the [Master's in Computational Finance program](https://www.cmu.edu/mscf/), including regression, classification, and tree-based methods.
 
-#### 36-460/660 Special Topics: Sports Analytics
+#### 36-460/660 Special Topics: Sports Analytics (currently teaching)
 
 Elective course for advanced undergraduate and [master's level](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html) students on sports analytics methods, including multilevel models, Bayesian statistics, and spatio-temporal data.
 
-#### 36--613 Data Visualization (mini)
+#### 36--613 Data Visualization (mini; previously taught)
 
 Core course in [Master of Science in Applied Data Science (MADS)](https://www.cmu.edu/dietrich/statistics-datascience/academics/mads/index.html) on creating and understanding data visualizations and interactive tools from a statistical perspective.
 
-#### 36-642 Telling Impactful Stories with Data Visualization (online mini)
+#### 36-642 Telling Impactful Stories with Data Visualization (online mini; currently teaching)
 
 Data visualization course in [Foundations of Data Science](https://www.cmu.edu/online/fds/) online graduate certificate program.
 
-#### 36-493 Sports Analytics Capstone
+#### 36-493 Sports Analytics Capstone (currently teaching)
 
-Undergraduate capstone course using data provided by CMU athletics for sports analytics research projects.
+Undergraduate capstone course using data provided by [CMU Athletics](https://athletics.cmu.edu/landing/index) for sports analytics research projects.
 
-#### 36-315 Statistical Graphics and Visualization
+#### 36-396 Tartan Athletics Analytics (currently teaching)
+
+Undergraduate course providing students with hands-on experience applying statistics and data science methodologies to real-world datasets, and communicating results to stakeholders in the [Carnegie Mellon Athletics Department (aka Tartan Athletics)](https://athletics.cmu.edu/landing/index).
+
+#### 36-315 Statistical Graphics and Visualization (previously taught)
 
 Undergraduate course on creating and understanding data visualizations from a statistical perspective.
+
+#### 66-155 Sports Betting, Highs and Lows: Your Brain on Stats (developing)
+
+[Grand Challenge First-Year Seminar](https://www.cmu.edu/dietrich/gened/year-1/grand-challenge/index.html) on the statistics and neuroscience of sports betting. Co-taught and developed with [Linda Moya](https://www.cmu.edu/dietrich/sds/people/faculty/linda-moya.html), and to be offered in Spring 2026. [Click here for course description](https://www.cmu.edu/dietrich/gened/year-1/grand-challenge/seminars/sports-betting.html).
