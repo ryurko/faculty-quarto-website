@@ -4,13 +4,15 @@ title: "Publications and Preprints"
 
 ### 2025
 
++ Quang Nguyen  and __Ronald Yurko__. "A multilevel model with heterogeneous variances for snap timing in the National Football League," _Journal of the Royal Statistical Society Series A: Statistics in Society_, 2025. [(link)](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf185/8315856?login=false)
+
 + Zach Branson, Monica Paz Parra, and __Ronald Yurko__. "The landscape of college-level data visualization courses, and the benefits of incorporating statistical thinking," _Journal of Statistics and Data Science Education_, 2025. [(link)](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2537049)
 
 + Quang Nguyen  and __Ronald Yurko__. "A bayesian circular mixed-effects model for explaining variability in directional movement in american football," _arXiv preprint_, 2025. [(preprint)](https://arxiv.org/abs/2507.06122)
 
 + Scott Powers  and __Ronald Yurko__. "Swinging, fast and slow: Interpreting variation in baseball swing tracking metrics," _arXiv preprint_, 2025. [(preprint)](https://arxiv.org/abs/2507.01238)
 
-+ Quang Nguyen  and __Ronald Yurko__. "A multilevel model with heterogeneous variances for snap timing in the National Football League," _arXiv preprint_, 2025. [(preprint)](https://arxiv.org/abs/2502.16313)
++ Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Exploring the difficulty of estimating win probability: a simulation study," _Journal of Quantitative Analysis in Sports_, 2025. [(link)](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0130/html)
 
 + Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Analytics, have some humility: a statistical view of fourth-down decision making," _The American Statistician_, 2025. [(link)](https://www.tandfonline.com/doi/abs/10.1080/00031305.2025.2475801)
 
@@ -26,8 +28,6 @@ title: "Publications and Preprints"
 + Adriana Gonzalez Sanchez, Sierra Martinez, __Ronald Yurko__, and Ryan Elmore. "Does Icing the Field Goal Kicker Work in the National Football League?", _CHANCE_, 2024. [(link)](https://www.tandfonline.com/doi/pdf/10.1080/09332480.2024.2415841?casa_token=gDYSucFwk4oAAAAA:OK5ZvoaS04aayEcMeWM-xjIkDk6G1iXLfZJQyZNhLon9DBl69K_BO5Sx2bbKoZFaPXE1k8F-9iO-_g)
 
 + Yujin Kim, Minwoo Jeong, In Gyeong Koh, Chanhee Kim, Hyeji Lee, Jae Hyun Kim, __Ronald Yurko__, Il Bin Kim, Jeongbin Park, Donna M Werling, Stephan J Sanders, and Joon-Yong. "CWAS-Plus: estimating category-wide association of rare noncoding variation from whole-genome sequencing data with cell-type-specific functional data," _Briefings in Bioinformatics_, 2024. [(link)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11224609/)
-
-+ Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Exploring the difficulty of estimating win probability: a simulation study," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2406.16171)
 
 
 ### 2023
