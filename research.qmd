@@ -2,6 +2,14 @@
 title: "Publications and Preprints"
 ---
 
+### 2026
+
++ __Ronald Yurko__, Quang Nguyen, and Konstantinos Pelechrinis. "NFL Ghosts: A framework for evaluating defender positioning with conditional density estimation," _Annals of Applied Statistics_, 2026. [(preprint)](https://arxiv.org/abs/2406.17220)
+
++ Scott Powers  and __Ronald Yurko__. "Swinging, fast and slow: Interpreting variation in baseball swing tracking metrics," _The American Statistician_, 2026. [(preprint)](https://arxiv.org/abs/2507.01238)
+
++ Shannon K Gallagher, Swati Rallapalli, Tyler Brooks, Chuck Loughin, Michele Sezgin, and __Ronald Yurko__. "Analysis and explainability of LLMs via evolutionary methods". _In preparation_, 2026.
+
 ### 2025
 
 + Quang Nguyen  and __Ronald Yurko__. "A multilevel model with heterogeneous variances for snap timing in the National Football League," _Journal of the Royal Statistical Society Series A: Statistics in Society_, 2025. [(link)](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf185/8315856?login=false)
@@ -9,8 +17,6 @@ title: "Publications and Preprints"
 + Zach Branson, Monica Paz Parra, and __Ronald Yurko__. "The landscape of college-level data visualization courses, and the benefits of incorporating statistical thinking," _Journal of Statistics and Data Science Education_, 2025. [(link)](https://www.tandfonline.com/doi/full/10.1080/26939169.2025.2537049)
 
 + Quang Nguyen  and __Ronald Yurko__. "A bayesian circular mixed-effects model for explaining variability in directional movement in american football," _arXiv preprint_, 2025. [(preprint)](https://arxiv.org/abs/2507.06122)
-
-+ Scott Powers  and __Ronald Yurko__. "Swinging, fast and slow: Interpreting variation in baseball swing tracking metrics," _arXiv preprint_, 2025. [(preprint)](https://arxiv.org/abs/2507.01238)
 
 + Ryan Brill, __Ronald Yurko__, and Abraham J Wyner. "Exploring the difficulty of estimating win probability: a simulation study," _Journal of Quantitative Analysis in Sports_, 2025. [(link)](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0130/html)
 
@@ -22,8 +28,6 @@ title: "Publications and Preprints"
 
 
 ### 2024
-
-+ __Ronald Yurko__, Quang Nguyen, and Konstantinos Pelechrinis. "NFL Ghosts: A framework for evaluating defender positioning with conditional density estimation," _arXiv preprint_, 2024. [(preprint)](https://arxiv.org/abs/2406.17220)
 
 + Adriana Gonzalez Sanchez, Sierra Martinez, __Ronald Yurko__, and Ryan Elmore. "Does Icing the Field Goal Kicker Work in the National Football League?", _CHANCE_, 2024. [(link)](https://www.tandfonline.com/doi/pdf/10.1080/09332480.2024.2415841?casa_token=gDYSucFwk4oAAAAA:OK5ZvoaS04aayEcMeWM-xjIkDk6G1iXLfZJQyZNhLon9DBl69K_BO5Sx2bbKoZFaPXE1k8F-9iO-_g)
 

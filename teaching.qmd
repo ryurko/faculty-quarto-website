@@ -40,6 +40,6 @@ Undergraduate course providing students with hands-on experience applying statis
 
 Undergraduate course on creating and understanding data visualizations from a statistical perspective.
 
-#### 66-155 Sports Betting, Highs and Lows: Your Brain on Stats (developing)
+#### 66-155 Sports Betting, Highs and Lows: Your Brain on Stats (currently teaching)
 
-[Grand Challenge First-Year Seminar](https://www.cmu.edu/dietrich/gened/year-1/grand-challenge/index.html) on the statistics and neuroscience of sports betting. Co-taught and developed with [Linda Moya](https://www.cmu.edu/dietrich/sds/people/faculty/linda-moya.html), and to be offered in Spring 2026. [Click here for course description](https://www.cmu.edu/dietrich/gened/year-1/grand-challenge/seminars/sports-betting.html).
+[Grand Challenge First-Year Seminar](https://www.cmu.edu/dietrich/gened/year-1/grand-challenge/index.html) on the statistics and neuroscience of sports betting. Co-taught and developed with [Linda Moya](https://www.cmu.edu/dietrich/sds/people/faculty/linda-moya.html). [Click here for course description](https://www.cmu.edu/dietrich/gened/year-1/grand-challenge/seminars/sports-betting.html).
