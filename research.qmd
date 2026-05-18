@@ -4,6 +4,8 @@ title: "Publications and Preprints"
 
 ### 2026
 
++ Quang Nguyen  and __Ronald Yurko__. "Bayesian multilevel step-and-turn models for evaluating player movement in american football," _arXiv preprint_, 2025. [(preprint)](https://arxiv.org/abs/2603.17866)
+
 + __Ronald Yurko__, Quang Nguyen, and Konstantinos Pelechrinis. "NFL Ghosts: A framework for evaluating defender positioning with conditional density estimation," _Annals of Applied Statistics_, 2026. [(preprint)](https://arxiv.org/abs/2406.17220)
 
 + Scott Powers  and __Ronald Yurko__. "Swinging, fast and slow: Interpreting variation in baseball swing tracking metrics," _The American Statistician_, 2026. [(preprint)](https://arxiv.org/abs/2507.01238)
